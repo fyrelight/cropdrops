@@ -4,6 +4,6 @@ Dependency on MCMMO - https://github.com/Euronite/XpDrop is an alternative witho
 
 Simple, extremely efficient (due to hooking into another plugin) plugin for making Melons & Pumpkins drop XP
 
-Configuration:
-xp:
+Configuration:<br/>
+xp:<br/>
 MATERIAL: XPAMOUNT
